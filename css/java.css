@@ -1,0 +1,11 @@
+a{
+	font-family: Arial, Helvetica, sans-serif;
+		color: orange;
+}
+a:hover{
+	color: white;
+}
+#pc_sub_li a li{
+	color: orange;
+}
+

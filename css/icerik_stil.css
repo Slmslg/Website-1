@@ -1,0 +1,53 @@
+h4{
+	font-size: 20px;
+	text-align: left;
+	padding-left: 20px;
+}
+.code{
+	text-align: left;
+	border-left: 4px solid green;
+	background-color: #fff;
+	color:black;
+	border-top: 1px solid gray;
+	border-bottom: 1px solid gray;
+	padding: 0px 10px 10px 20px;
+	margin: 20px 20px 20px 10px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+}
+.cikti{
+	background-color: #ebeb0f;
+	border-left: 3px solid black;
+	text-align: left;
+	padding: 10px 0px 10px 20px;
+	margin: 20px 20px 20px 10px;
+}
+a pre code:hover{
+	font-size: 18px;
+}
+.clear{
+	clear: both;
+}
+	.konular ul li{
+	list-style: circle;
+		display: block;
+		color: black;
+		float: left;
+		clear: both;
+		padding: 0; margin: 0;
+		margin-bottom: 10px;
+		margin-left: 10px;
+		width: auto;
+		text-align: justify;
+		padding-right: 20px;
+		
+	}
+	.konular ul{
+		margin: 0;
+		padding: 0;
+	}
+	.konular{
+		margin-bottom: 10px;
+		height: auto;
+		margin-left: 100px;
+	}
